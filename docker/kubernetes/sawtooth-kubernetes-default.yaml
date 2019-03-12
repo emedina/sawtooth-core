@@ -8,6 +8,7 @@ items:
   kind: Deployment
   metadata:
     name: sawtooth-0
+    
   spec:
     replicas: 1
     template:
